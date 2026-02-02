@@ -4,13 +4,8 @@ public class Comment {
         /*This is multi line comment
 
 
+         */
 
-
-        */
-/**
- System.out.println( "check");
- System.out.println("Print");
- */
 
     }
 }
