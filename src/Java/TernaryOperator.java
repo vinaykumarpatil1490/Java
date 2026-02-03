@@ -10,5 +10,8 @@ public class TernaryOperator {
         System.out.println(result1);
         System.out.println(Math.min(Number, Number1));
         System.out.println(Math.max(Number, Number1));
+        int Num = 9;
+        String result5 = Num%2 == 0 ? "Even": "Odd";
+        System.out.println(result5);
     }
 }
