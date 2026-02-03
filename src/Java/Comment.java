@@ -1,6 +1,8 @@
+package Java;
+
 public class Comment {
     public static void main(String[] args) {
-        //Comment check
+        //Java.Comment check
         /*This is multi line comment
 
          */
